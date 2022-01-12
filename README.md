@@ -1,4 +1,4 @@
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=From00)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=From00&count_private=true&theme=radical)]()
 
 <!--
 **From00/From00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
